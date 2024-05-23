@@ -6,6 +6,8 @@
 // Explain & TIP: Just like before, use basic math operations to display the number 8.
 //  This reinforces how to display outputs in coding.
 
+// basic math operation
+
 console.log(4 + 4);   // result // 8
 console.log(10 - 2);  // 8
 console.log(4 * 2);   // 8
