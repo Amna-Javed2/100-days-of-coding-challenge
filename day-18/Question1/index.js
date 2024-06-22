@@ -11,4 +11,4 @@ let smartphone = {
         batteryLife: "18 hours"
     }
 };
-console.log(smartphone.make);
+console.log(smartphone);
